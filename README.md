@@ -1,2 +1,2 @@
 # sudoers-parser
-Python code to parse a sudoers file and prit the details
+Python code to parse a sudoers file and print the details
